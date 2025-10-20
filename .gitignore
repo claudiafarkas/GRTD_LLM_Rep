@@ -17,6 +17,5 @@ __pycache__/
 
 # Data and model output (optional, if you want to ignore generated files)
 runs/
-data/
 
 #
