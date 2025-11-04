@@ -2,7 +2,7 @@
 ## EECS 6412 - Replication Project for the Paper: Generating Realistic Tabular Data with Large Language Models
 ### Paper found here: https://arxiv.org/pdf/2410.21717 
 
-
+## PLEASE NOTE: Download the ipynb files! There is some error with displaying the code on Github. Download the files to view/run the code with no issues
 
 ## Instructions to Run the Project: 
 
